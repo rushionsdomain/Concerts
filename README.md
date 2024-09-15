@@ -51,7 +51,7 @@ Usage
 Contributors
 ------------
 
-*   Rushion Gachuri(https://github.com/rushionsdomain) - Main Developer
+*   Rushion Gachuri (https://github.com/rushionsdomain) - Main Developer
 
 License
 -------
