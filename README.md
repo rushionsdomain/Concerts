@@ -51,7 +51,7 @@ Usage
 Contributors
 ------------
 
-*   [Your Name](https://github.com/yourusername) - Main Developer
+*   Rushion Gachuri(https://github.com/rushionsdomain) - Main Developer
 
 License
 -------
