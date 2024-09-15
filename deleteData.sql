@@ -1,0 +1,3 @@
+-- -- DELETE FROM concerts WHERE id = 8;
+-- DELETE FROM bands WHERE id = 4;
+-- -- DELETE FROM venues WHERE id = 6;
